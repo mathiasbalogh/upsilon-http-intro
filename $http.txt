@@ -1,0 +1,7 @@
+$http is very similar to $ajax
+
+Promises
+  -represent deferred calculation
+    -resolved
+      -.then(function(whateverWasInThePromise){}) --similar to the success of an ajax call
+    -rejected

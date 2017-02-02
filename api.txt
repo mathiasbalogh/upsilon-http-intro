@@ -1,0 +1,7 @@
+Application Programming Interface
+
+  -Any publicly visible interface that we use to make programs
+
+
+Grunt
+  -Dev dependency that can help with the dev

@@ -1,1 +1,3 @@
 node_modules
+public/vendors
+public/vendors/client.min.js
